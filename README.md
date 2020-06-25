@@ -22,8 +22,8 @@ Christopher Nolan, Colin Trevorrow, Joe Russo.
 
 *Genre must be: Action, Comedy, Drama, Adventure, Thriller.
 
-#Limitations: -
+## Limitations: -
 
-*The budget and revenue column does not have a specific currency unit, it might be possible different movies have different budgets in different currency according to the country they are made in.
+> The budget and revenue column does not have a specific currency unit, it might be possible different movies have different budgets in different currency according to the country they are made in.
 
-*Dropping the rows and columns with missing values might have also affected the analysis.
+> Dropping the rows and columns with missing values might have also affected the analysis.
