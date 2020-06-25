@@ -8,9 +8,11 @@ List of movies with ‘0’ budget or revenue are removed (as it may skew the da
 
 Few Question that can analysed from this data set -
 
-Which movies had the highest profit in each year?
-Is popularity of a movie related to the revenue being earned by the movie?
-Comparison between two production companies in terms of their revenues & number of movies released each year?
+> Which movies had the highest profit in each year?
+
+> Is popularity of a movie related to the revenue being earned by the movie?
+
+> Comparison between two production companies in terms of their revenues & number of movies released each year?
 
 ## Conclusion - 
 For a movie to be successful it must have following criteria –
