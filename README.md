@@ -14,19 +14,16 @@ Comparison between two production companies in terms of their revenues & number 
 
 ## Conclusion - 
 For a movie to be successful it must have following criteria –
+*Average budget of the movie should be around 60 million dollars.
+*Anyone of these should be in the cast: Chris Pratt, Keanu Reeves, Christian Bale.
 
-Average budget of the movie should be around 60 million dollars.
-
-Anyone of these should be in the cast: Chris Pratt, Keanu Reeves, Christian Bale.
-
-The movie should be directed by the any one of the following directors:
-
+*The movie should be directed by the any one of the following directors:
 Christopher Nolan, Colin Trevorrow, Joe Russo.
 
-Genre must be: Action, Comedy, Drama, Adventure, Thriller.
+*Genre must be: Action, Comedy, Drama, Adventure, Thriller.
 
-Limitations:
-o The budget and revenue column does not have a specific currency unit, it might be possible different movies have different budgets in different currency according to the country they are made in.
+#Limitations: -
 
+*The budget and revenue column does not have a specific currency unit, it might be possible different movies have different budgets in different currency according to the country they are made in.
 
-o Dropping the rows and columns with missing values might have also affected the analysis.
+*Dropping the rows and columns with missing values might have also affected the analysis.
