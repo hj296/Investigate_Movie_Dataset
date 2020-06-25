@@ -14,6 +14,7 @@ Comparison between two production companies in terms of their revenues & number 
 
 ## Conclusion - 
 For a movie to be successful it must have following criteria –
+
 *Average budget of the movie should be around 60 million dollars.
 *Anyone of these should be in the cast: Chris Pratt, Keanu Reeves, Christian Bale.
 
